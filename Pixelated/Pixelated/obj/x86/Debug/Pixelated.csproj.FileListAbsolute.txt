@@ -4,3 +4,9 @@ C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\
 C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Pixelated.exe
 C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Pixelated.pdb
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\bin\x86\Debug\Pixelated.exe
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\bin\x86\Debug\Pixelated.pdb
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Pixelated.csprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Pixelated.exe
+C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\obj\x86\Debug\Pixelated.pdb

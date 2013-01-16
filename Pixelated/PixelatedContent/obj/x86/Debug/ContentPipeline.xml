@@ -7,10 +7,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\PixelatedContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\Pixelated\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\PixelatedContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Arod-Desktop\Documents\Visual Studio 2010\Projects\Pixelated\Pixelated\Pixelated\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\PixelatedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\PixelatedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Arod-Desktop\Desktop\Pixelated\Pixelated\Pixelated\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

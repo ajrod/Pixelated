@@ -35,11 +35,11 @@ namespace Pixelated
         /// <summary>
         /// The screens resolution width.
         /// </summary>
-        public const int RES_WIDTH = 600;
+        public const int RES_WIDTH = 540;
         /// <summary>
         /// The screens resolution height.
         /// </summary>
-        public const int RES_HEIGHT = 450;
+        public const int RES_HEIGHT = 405;
 
         /// <summary>
         /// The amount of time that has occurred since program start.
@@ -124,18 +124,18 @@ namespace Pixelated
         /// <summary>
         /// Adds the static pixels to the color array. These are pixels that default to non-black and are unchanged.
         /// </summary>
-        /// <param name="r">The r.</param>
-        public void CreateStaticPixels(Random r)
+        /// <param name="random">The random object.</param>
+        public void CreateStaticPixels(Random random)
         {
             for (int i = 0; i < numStaticPixels; i++)
             {
                 int x = 0, y = 0;
                 do
                 {
-                    x = r.Next(RES_WIDTH);
-                    y = r.Next(RES_HEIGHT);
+                    x = random.Next(RES_WIDTH);
+                    y = random.Next(RES_HEIGHT);
                 } while (staticPixels.ContainsKey(new Point(x, y)));
-                SetPixelColor(x, y, new Color(r.Next(256), r.Next(256), r.Next(256)));
+                SetPixelColor(x, y, new Color(random.Next(256), random.Next(256), random.Next(256)));
                 staticPixels.Add(new Point(x, y), colors[x + y * RES_WIDTH]);
             }
         }
