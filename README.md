@@ -9,4 +9,4 @@ Run the executable located at Pixelated/Pixelated/bin/x86/Debug/Pixelated.exe if
 using an emulator such as wine. 
 
 Alternatively you can build the project yourself using Microsoft Visual Studio, just open the Pixelated.sln project. 
-You may require some dependencies such as XNA Game Studio.
+You may require some dependencies such as XNA Game Studio 4.0.
