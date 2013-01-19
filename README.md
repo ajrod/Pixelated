@@ -3,6 +3,8 @@ Pixelated
 
 This is how a programmer attempts to make art one pixel at a time. Project features emergent Pixel Art or Noise Generator; Seizure warning!
 
+Note: This program is written in C# XNA.
+
 How to run it
 -------------
 Run the executable located at Pixelated/Pixelated/Pixelated/bin/x86/Debug/Pixelated.exe if you are using linux then you will need to run it
